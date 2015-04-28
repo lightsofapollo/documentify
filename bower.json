@@ -1,0 +1,22 @@
+{
+  "name": "documentify",
+  "version": "0.0.0",
+  "homepage": "https://github.com/lightsofapollo/documentify",
+  "authors": [
+    "James Lal <james@lightsofapollo.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fetch": "~0.7.0",
+    "marked": "~0.3.3",
+    "webcomponentsjs": "~0.6.1",
+    "docson": "*"
+  }
+}
